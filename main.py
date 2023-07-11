@@ -4,7 +4,10 @@ import speech_recognition as sr # to transcribe audio into the text
 import time
 
 # set your openAPI key
-openai.api_key="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"
+openai.api_key="YOUR OPENAI KEY"
+# TO get your openai key visit:- "https://platform.openai.com" then follow the steps:- Personal > View API Keys > Create New key
+
+
 
 # Initialise Text-To-Speech engine
 engine = pyttsx3.init()
