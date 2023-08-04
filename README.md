@@ -1,4 +1,4 @@
-# VoiceGPT using ChatGPT
+## VoiceGPT using ChatGPT
 
 This repository contains a Python script that utilizes OpenAI's GPT-3 API for VoiceGPT. The script allows you to interact with the GPT-3 model by speaking questions or prompts and receiving text-based responses.
 
